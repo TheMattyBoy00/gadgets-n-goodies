@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gadgetsngoodies:items/mine_o_saur_eye"
+    }
+}

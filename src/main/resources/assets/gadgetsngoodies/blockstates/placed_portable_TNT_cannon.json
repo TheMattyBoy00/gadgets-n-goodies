@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=north,has_tnt_projectile=false,has_tnt_propeller=false": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_empty" },
+        "facing=south,has_tnt_projectile=false,has_tnt_propeller=false": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_empty", "y": 180 },
+        "facing=west,has_tnt_projectile=false,has_tnt_propeller=false": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_empty", "y": 270 },
+        "facing=east,has_tnt_projectile=false,has_tnt_propeller=false": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_empty", "y": 90 },
+        "facing=north,has_tnt_projectile=false,has_tnt_propeller=true": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_propeller" },
+        "facing=south,has_tnt_projectile=false,has_tnt_propeller=true": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_propeller", "y": 180 },
+        "facing=west,has_tnt_projectile=false,has_tnt_propeller=true": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_propeller", "y": 270 },
+        "facing=east,has_tnt_projectile=false,has_tnt_propeller=true": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_propeller", "y": 90 },
+        "facing=north,has_tnt_projectile=true,has_tnt_propeller=true": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_propeller_projectile" },
+        "facing=south,has_tnt_projectile=true,has_tnt_propeller=true": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_propeller_projectile", "y": 180 },
+        "facing=west,has_tnt_projectile=true,has_tnt_propeller=true": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_propeller_projectile", "y": 270 },
+        "facing=east,has_tnt_projectile=true,has_tnt_propeller=true": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_propeller_projectile", "y": 90 },
+        "facing=north,has_tnt_projectile=true,has_tnt_propeller=false": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_projectile" },
+        "facing=south,has_tnt_projectile=true,has_tnt_propeller=false": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_projectile", "y": 180 },
+        "facing=west,has_tnt_projectile=true,has_tnt_propeller=false": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_projectile", "y": 270 },
+        "facing=east,has_tnt_projectile=true,has_tnt_propeller=false": { "model": "gadgetsngoodies:placed_portable_TNT_cannon_projectile", "y": 90 }
+    }
+}

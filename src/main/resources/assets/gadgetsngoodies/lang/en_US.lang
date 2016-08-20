@@ -1,0 +1,67 @@
+itemGroup.tabGadgetsNGoodies=Gadgets n' Goodies
+
+item.fireball_dispenser.name=Fireball Dispenser
+item.musical_instrument.name=Musical Instrument
+item.egg_dispenser.name=Egg Dispenser
+item.block-o-copter.name=Block-o-Copter
+item.diving_helmet.name=Diving Helmet - §cWIP!
+item.oxygen_tank.name=Aqualung - §cWIP!
+item.wetsuit.name=Wetsuit - §cWIP!
+item.flippers.name=Flippers - §cWIP!
+item.grappling_hook.name=Grappling Hook
+item.jetpack.name=Jetpack
+item.flame_thrower.name=Flame Thrower
+item.portable_TNT_cannon_empty.name=Portable TNT Cannon
+item.portable_TNT_cannon_loaded.name=Portable TNT Cannon
+item.hang_glider.name=Hang Glider
+item.mine-o-saur.name=Mine-o-Saur
+item.water_gun.name=Water Gun
+
+item.mine-o-saur_eye.name=Mine-o-Saur Eye
+item.mine-o-saur_jaw.name=Mine-o-Saur Jaw
+item.mine-o-saur_skull_half.name=Mine-o-Saur Skull Half
+item.mine-o-saur_skull.name=Mine-o-Saur Skull
+item.mine-o-saur_arm.name=Mine-o-Saur Arm
+item.mine-o-saur_arm_pair.name=Mine-o-Saur Arm Pair
+item.mine-o-saur_leg.name=Mine-o-Saur Leg
+item.mine-o-saur_leg_pair.name=Mine-o-Saur Leg Pair
+item.mine-o-saur_tail.name=Mine-o-Saur Tail
+item.mine-o-saur_body.name=Mine-o-Saur Body
+item.mine-o-saur_head.name=Mine-o-Saur Head
+
+tile.placed_portable_TNT_cannon.name=Placed Portable TNT Cannon
+
+fireball_dispenser.power=Explosion Strength
+fireball_dispenser.power.change=Shift-right-click to change strength!
+tnt_cannon.status.empty=Status: Empty
+tnt_cannon.status.load=Right-click to load!
+tnt_cannon.status.loaded=Status: Loaded
+tnt_cannon.place=Shift-right-click on a block to place!
+hang_glider.eliminate_fall_damage=Sneak to eliminate fall damage!
+water_gun.water_level=Water Level:
+water_gun.water_level_percent=/100
+
+entity.gadgetsngoodies.GrapplingHook.name=Grappling Hook
+entity.gadgetsngoodies.FlameThrowerFlame.name=Flame Thrower Flame
+entity.gadgetsngoodies.Mine-o-Saur.name=Mine-o-Saur
+entity.gadgetsngoodies.WaterGunDrop.name=Water Gun Drop
+
+achievement.high_flier=High Flier
+achievement.absolute_pitch=Absolute Pitch
+achievement.july4th=4th of July!
+achievement.flying_pig=Flying Pig
+achievement.being_the_ghast=Being the Ghast
+achievement.risky_dives=Risky Dives
+achievement.farmer=Farmer
+achievement.drop_the_bass=D-d-d-d-drop the bass!
+achievement.absolute_pitch.desc=Pitch a perfect 440 Hz A5 with the Musical Instrument
+achievement.july4th.desc=Launch 20 TNTs in the air with the Block-o-Copter in one play session
+achievement.flying_pig.desc=Make a pig fly by using the Block-o-Copter on it
+achievement.high_flier.desc=Reach Y=1000 with the Jetpack
+achievement.being_the_ghast.desc=Launch a power 1 fireball with the Fireball Dispenser whilst flying with the Jetpack
+achievement.risky_dives.desc=Glide down with the Hang Glider from at least 30 blocks height and right-click a maximum of 2 blocks above the ground
+achievement.farmer.desc=Water a crop to full size with the Water Gun
+achievement.drop_the_bass.desc=Drop a bass. Hint: involves configs.
+
+safety.protocol.violation=Sorry, JAM (the Jetpack Association of Minecraftia) prohibits the use of jetpacks if no head protection is worn. Please equip a helmet to proceed.
+out.of.fuel=Out of fuel.

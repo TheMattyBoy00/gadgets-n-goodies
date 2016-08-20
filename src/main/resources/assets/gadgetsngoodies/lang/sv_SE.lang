@@ -1,0 +1,67 @@
+itemGroup.tabGadgetsNGoodies=Gadgets n' Goodies
+
+item.fireball_dispenser.name=Eldklotskastare
+item.musical_instrument.name=Musikinstrument
+item.egg_dispenser.name=Äggkastare
+item.block-o-copter.name=Block-o-Kopter
+item.diving_helmet.name=Dykarhjälm - §cWIP!
+item.oxygen_tank.name=Syretank - §cWIP!
+item.wetsuit.name=Våtdräkt - §cWIP!
+item.flippers.name=Simfötter - §cWIP!
+item.grappling_hook.name=Reppistol
+item.jetpack.name=Ryggraket
+item.flame_thrower.name=Eldkastare
+item.portable_TNT_cannon_empty.name=Bärbar TNT-kanon
+item.portable_TNT_cannon_loaded.name=Bärbar TNT-kanon
+item.hang_glider.name=Hängglidare
+item.mine-o-saur.name=Gruv-o-Saurie
+item.water_gun.name=Vattenpistol
+
+item.mine-o-saur_eye.name=Gruv-o-Saurieöga
+item.mine-o-saur_jaw.name=Gruv-o-Sauriekäke
+item.mine-o-saur_skull_half.name=Gruv-o-Saurieskallhalva
+item.mine-o-saur_skull.name=Gruv-o-Saurieskalle
+item.mine-o-saur_arm.name=Gruv-o-Sauriearm
+item.mine-o-saur_arm_pair.name=Gruv-o-Sauriearmpar
+item.mine-o-saur_leg.name=Gruv-o-Saurieben
+item.mine-o-saur_leg_pair.name=Gruv-o-Sauriebenpar
+item.mine-o-saur_tail.name=Gruv-o-Sauriesvans
+item.mine-o-saur_body.name=Gruv-o-Sauriekropp
+item.mine-o-saur_head.name=Gruv-o-Sauriehuvud
+
+tile.placed_portable_TNT_cannon.name=Placerad Bärbar TNT-kanon
+
+fireball_dispenser.power=Explosionsstyrka
+fireball_dispenser.power.change=Ändra styrkan genom att Shift-högerklicka
+tnt_cannon.status.empty=Status: Tom
+tnt_cannon.status.load=Högerklicka för att ladda!
+tnt_cannon.status.loaded=Status: Laddad
+tnt_cannon.place=Shift-högerklicka på ett block för att placera!
+hang_glider.eliminate_fall_damage=Smyg för att eliminera fallskador!'
+water_gun.water_level=Vattennivå:
+water_gun.water_level_percent=/100
+
+entity.gadgetsngoodies.GrapplingHook.name=Reppistolskrok
+entity.gadgetsngoodies.FlameThrowerFlame.name=Eldkastarflamma
+entity.gadgetsngoodies.Mine-o-Saur.name=Gruv-o-Saurie
+entity.gadgetsngoodies.WaterGunDrop.name=Vattenpistolsdroppe
+
+achievement.high_flier=Högtflygande Planer
+achievement.absolute_pitch=Absolut Gehör
+achievement.july4th=Nyårsafton!
+achievement.flying_pig=Flygande Gris
+achievement.being_the_ghast=Du är Gasten
+achievement.risky_dives=Riskabla Dykningar
+achievement.farmer=Bonde
+achievement.drop_the_bass=S-s-s-s-släpp basen!
+achievement.absolute_pitch.desc=Spela ett perfekt ettstruket A på 440 Hz med Musikinstrumentet
+achievement.july4th.desc=Skjut upp 20 TNT i luften med Block-o-Koptern i en spelsession
+achievement.flying_pig.desc=Få en gris att flyga genom att använda Block-o-Koptern på den
+achievement.high_flier.desc=Nå Y=1000 med Ryggraketen
+achievement.being_the_ghast.desc=Skjut ett eldklot av kraft 1 med Eldklotskastaren medan du flyger med Ryggraketen
+achievement.risky_dives.desc=Glid ner med Hängglidaren från åtminståne 30 blocks höjd och högerklicka max 2 block ovanför marken
+achievement.farmer.desc=Vattna en gröda så att den växer till sig till full storlek med Vattenpistolen
+achievement.drop_the_bass.desc=Släpp en bas. Tips: involverar konfigurationsfiler.
+
+safety.protocol.violation=Tyvärr har RIS (Ryggraketsinstitutionens Säkerhetsdepartement) förbjudit användandet av ryggraketer om inget huvudskydd används. Var god och ta på en hjälm för att fortsätta. 
+out.of.fuel=Slut på bränsle.
